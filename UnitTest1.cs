@@ -18,7 +18,7 @@ namespace UnitTestProject6
 
             //Открываем страницу авторизации
             driver.Url = "https://accounts.google.com/";
-            driver.Manage().Window.Maximize();\
+            driver.Manage().Window.Maximize();
             
             //Вводим логин
             driver.FindElement(By.XPath("//*[@id=\"identifierId\"]")).SendKeys("automationt4@gmail.com");
@@ -71,7 +71,7 @@ namespace UnitTestProject6
             //Сравниваем с ожидаемым результатом.
             Assert.AreEqual(actualError, expectedError);
 
-            driver.Quit();
+
 
         }
     }

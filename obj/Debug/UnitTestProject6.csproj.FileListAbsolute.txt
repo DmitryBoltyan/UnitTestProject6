@@ -21,3 +21,4 @@ C:\Users\Dmitry\source\repos\UnitTestProject6\obj\Debug\UnitTestProject6.csproj.
 C:\Users\Dmitry\source\repos\UnitTestProject6\obj\Debug\UnitTestProject6.csproj.CopyComplete
 C:\Users\Dmitry\source\repos\UnitTestProject6\obj\Debug\UnitTestProject6.dll
 C:\Users\Dmitry\source\repos\UnitTestProject6\obj\Debug\UnitTestProject6.pdb
+C:\Users\Dmitry\source\repos\UnitTestProject6\obj\Debug\UnitTestProject6.csprojAssemblyReference.cache
